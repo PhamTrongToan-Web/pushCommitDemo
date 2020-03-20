@@ -1,0 +1,11 @@
+Bên A:
+1.ấn vào new pull request trong branch mới được push lên github(pull request là muốn branch được push lên
+gép vào master branch)
+2.đặt tên pull request sau đó viết comment (có thể k nếu hài lòng)
+3.Ấn CREATE pull request
+Bên B:
+Ấn vào Pull request sau khi chỉnh sửa ấn vào submit review
+Bên A: reload lại trang thấy review bên B
+có thể sửa theo yêu cầu của bên B sau đó commit lại file và push lên github (git push origin <tên branch>)
+sau khi sửa 2 bên reload sẽ k thấy comment nữa;
+sau đó quay lại conversation ấn vào perge pull request là ok :)
