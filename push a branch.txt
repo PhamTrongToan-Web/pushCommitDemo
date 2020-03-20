@@ -1,0 +1,5 @@
+tạo 1 branch mới
+
+1.git checkout -b <tên branch>;
+2. tạo 1 file mới -> commit
+3.push branch lên github : git push origin <tên branch>
