@@ -1,0 +1,7 @@
+git clone(clone repo về)
+(A gửi B link đến repo , B ấn clone or download)
+-> B ấn git clone tên đường dẫn
+
+git pull
+(Khi bên A push 1 commit lên git hub)
+git pull
